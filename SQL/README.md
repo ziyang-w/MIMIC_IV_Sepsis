@@ -1,6 +1,6 @@
 ## MIMIC IV数据库
 
-MIMIC-IV数据库是一个公开的医院系统数据库，具体的介绍可以参见[官网]([MIMIC (mit.edu)](https://mimic.mit.edu/#mimic-iv-citation))，在取得官方的授权访问之后，可以下载并构建数据库。
+MIMIC-IV数据库是一个公开的医院系统数据库，具体的介绍可以参见[MIMIC官网](https://mimic.mit.edu/#mimic-iv-citation)，在取得官方的授权访问之后，可以下载并构建数据库。
 
 ### 创建MIMIC数据库
 

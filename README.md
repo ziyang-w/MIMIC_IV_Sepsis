@@ -1,6 +1,6 @@
 # 介绍
 
-存放2021年共享杯比赛期间的代码以及数据，以[MIMIC IV数据库]([MIMIC (mit.edu)](https://mimic.mit.edu/#mimic-iv-citation))为数据来源，采用贝叶斯网络预测ICU脓毒血症（Sepsis-3）患者的死亡风险。
+存放2021年共享杯比赛期间的代码以及数据，以[MIMIC IV数据库](https://mimic.mit.edu/#mimic-iv-citation)为数据来源，采用贝叶斯网络预测ICU脓毒血症（Sepsis-3）患者的死亡风险。
 
 代码包含：
 
@@ -19,7 +19,7 @@
 
 ## MIMIC IV数据库
 
-MIMIC-IV数据库是一个公开的医院系统数据库，具体的介绍可以参见[官网]([MIMIC (mit.edu)](https://mimic.mit.edu/#mimic-iv-citation))，在取得官方的授权访问之后，可以下载并构建数据库。
+MIMIC-IV数据库是一个公开的医院系统数据库，具体的介绍可以参见[MIMIC官网](https://mimic.mit.edu/#mimic-iv-citation)，在取得官方的授权访问之后，可以下载并构建数据库。
 
 ### 创建MIMIC数据库
 

@@ -38,7 +38,7 @@ postgres -U postgres -v mimic_data_dir= YOUR_MIMIC_IV_FILE_PATH -f load.sql
 
 > tips：在运行期间可能会卡住，同时可能会遇到编码不正确的导致数据导入失败，建议将prostgres客户端编码也改成UTF-8，笔者已经在官方的`load.sql`文件中已经添加了以utf-8格式解码csv文件的代码
 
-整体运行时间大于需要1h
+整体运行时间大约需要1h
 
 
 
@@ -112,4 +112,4 @@ postgres -U postgres -v mimic_data_dir= YOUR_MIMIC_IV_FILE_PATH -f load.sql
 
 ## 致谢
 
-虽然不是什么惊天动地的大项目，只是一次小练习，但仍收收获满满。熟练了如何应用机器学习模型进行数据处理和建模，同时也总结了一套自己的代码流程。在此期间，离不开yfc，gyw两位师兄的帮助和支持，以及感谢李老师等多位老师在模型效果不佳时给予的帮助和支持。最重要的是还要感谢一同搭档的lys同学，愿一起进步，互相共勉。
+虽然不是什么惊天动地的大项目，只是一次小练习，但仍收收获满满。熟练了如何应用机器学习模型进行数据处理和建模，同时也总结了一套自己的代码流程。在此期间，离不开[@yfc](https://github.com/springyangchina)，[@gyw](https://github.com/gu-yaowen)两位师兄的帮助和支持，以及感谢李老师等多位老师在模型效果不佳时给予的帮助和支持。最重要的是还要感谢一同搭档的lys同学，愿一起进步，互相共勉。

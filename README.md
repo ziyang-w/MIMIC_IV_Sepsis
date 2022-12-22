@@ -97,7 +97,10 @@ postgres -U postgres -v mimic_data_dir= YOUR_MIMIC_IV_FILE_PATH -f load.sql
 > 在进行网格搜索时，可以改写`find_cut_num.py`文件实现，该文件原本用于搜索研究中最适合的分箱数量和纳入模型的变量，其将模型的结果存储在数据集命名的文件夹内，以分箱数量建立子文件夹，在内部存放不同变量数据的结果，最后将模型的平均结果以`best_param.csv`保存在以数据集命名的文件夹内
 
 
+## 引用
 
+本仓库的研究论文如下，如果您都觉得本仓库对您有任何帮助的话，请引用下面这篇文章：
+[Comparison of Mortality Predictive Models of Sepsis Patients Based on Machine Learning](http://cmsj.cams.cn/CN/10.24920/004102)
 
 
 ## todo

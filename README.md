@@ -100,7 +100,7 @@ postgres -U postgres -v mimic_data_dir= YOUR_MIMIC_IV_FILE_PATH -f load.sql
 ## 引用
 
 本仓库的研究论文如下，如果您都觉得本仓库对您有任何帮助的话，请引用下面这篇文章：
-[Comparison of Mortality Predictive Models of Sepsis Patients Based on Machine Learning](http://cmsj.cams.cn/CN/10.24920/004102)
+[Comparison of Mortality Predictive Models of Sepsis Patients Based on Machine Learning](https://pubmed.ncbi.nlm.nih.gov/36321175/)
 
 
 ## todo
